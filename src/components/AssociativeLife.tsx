@@ -36,7 +36,7 @@ const AssociativeLife = () => {
       period: '2023 - Present',
       image: workshopPhoto,
       description: 'Three years at CLL taught the power of sharing knowledge. That is why workshops were created on Git, GitHub, and competitive programming for 200+ developers. Through active GitHub work (150+ contributions), learning happens best when we teach and code together.',
-      stats: '200+ Learners + 150+ Contributions',
+      stats: '150+ github Contributions this year',
       facebookUrl: 'https://github.com/YassineBoussabat',
     },
   ];
