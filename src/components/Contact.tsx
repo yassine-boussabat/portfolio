@@ -65,7 +65,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Sfax, Tunisia',
+      value: 'Tunis, Tunisia',
       link: null,
     },
   ];
